@@ -36,5 +36,3 @@ The code will look like the following:
 
 * [Practical JavaScript Data Structures and Algorithms](https://www.packtpub.com/web-development/practical-javascript-data-structures-and-algorithms)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
